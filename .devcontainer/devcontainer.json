@@ -33,7 +33,9 @@
 				"python.linting.pycodestylePath": "/usr/local/py-utils/bin/pycodestyle",
 				"python.linting.pydocstylePath": "/usr/local/py-utils/bin/pydocstyle",
 				"python.linting.pylintPath": "/usr/local/py-utils/bin/pylint",
-				"codestream.serverUrl": "https://204f-47-197-39-132.ngrok.io"
+				"codestream.serverUrl": "https://work.dillonsellars.com:12079",
+				"codestream.disableStrictSSL": true,
+				"codestream.proxySupport": "off"
 			},
 			
 			// Add the IDs of extensions you want installed when the container is created.
